@@ -445,6 +445,9 @@ b, strong {
     font-size: 18px;
     font-weight: 500;
   }
+  .no-mobile {
+    display: none;
+}
 }
 /* Smaller than 576px */
 @media (max-width: 575.98px) {
